@@ -11,7 +11,7 @@ Las traducciones están en Español Colombia e Ingles, las puedes cambiar al idi
 
 ## Instalación
 
-- Descargar el contenido de este [repositorio](https://github.com/pagosegurorepos/plugin-woocommerce/archive/master.zip).
+- Descargar el contenido de este [repositorio](https://github.com/developers-gateway-pro/woocommerce-gatewaypro/archive/refs/heads/main.zip).
 - En el administrador de Wordpress ir a la sección de plugins y buscar el archivo descargado y añadir plugin e instalar.
 - Activa el plugin.
 - Entra a las configuraciones de Woocomerce y en pagos onfigura GatewayPro
